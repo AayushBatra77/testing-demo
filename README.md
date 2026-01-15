@@ -1,2 +1,2 @@
 # testing-demo
-Author - Aayush Batra
+Author - Aayush (CU)
